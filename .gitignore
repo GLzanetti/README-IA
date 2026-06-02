@@ -1,0 +1,3 @@
+# Ignorar arquivos temporários de estado do gerador de README.md
+state/*
+!state/.gitkeep
