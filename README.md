@@ -110,7 +110,7 @@ Siga os passos abaixo para iniciar a execução da orquestração de subagentes 
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/readMe-ia.git
+git clone https://github.com/GLzanetti/readMe-ia.git
 cd readMe-ia
 ```
 
